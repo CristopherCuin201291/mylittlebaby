@@ -1,0 +1,44 @@
+/*Seleccionar la etiqueta*/
+/*Selector de etiqueta*/
+/*selector de etiqueta = selecciona todas las etiquetas*/
+img {
+    width: 200px;
+    height: auto;
+}
+
+body{
+    margin: 0;
+    padding:0;
+}
+
+#intro{
+    width: 100vw; /*100% de tu pantalla*/
+    height: 25vh;
+    background-color: rgb(39, 142, 226);
+    position:relative;
+}
+h1 {
+    color: white;
+    position: absolute;
+    left:50%;
+    display: inline;
+}
+
+#about{
+    width: 100vw; /*100% de tu pantalla*/
+    height: 25vh;
+    background-color: crimson;
+    position: relative;
+}
+#fun{
+    width: 100vw; /*100% de tu pantalla*/
+    height: 25vh;
+    background-color: rgb(220, 190, 20);
+    position: relative;
+}
+#contacto{
+    width: 100vw; /*100% de tu pantalla*/
+    height: 25vh;
+    background-color: rgb(161, 87, 73);
+    position: relative;
+}
